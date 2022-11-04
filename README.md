@@ -1,4 +1,5 @@
-# LED-Matrix-DCF77-and-Teensy-4.0
+# LED Matrix control DCF77 Pollin Receiver with Teensy 4.0
+LED Matrix control DCF77 Pollin Receiver with Teensy 4.0
 
 Video:
 
